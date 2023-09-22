@@ -3,7 +3,9 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/NmmUoxTjpj0CDGm1Qj/giphy.gif?cid=ecf05e47bjt3uj42hdyglgrvhb1kaso83h4xabu1gkckpn3e&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
   <div id="badges">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="TelegramBadge"/>
+    <a href="https://t.me/prejdebivwiy">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="TelegramBadge"/>
+    </a>
     <img src="https://img.shields.io/badge/Pastebin-white?style=for-the-badge&logo=pastebin&logoColor=black" alt="PastebinBadge"/>
     <img src="https://img.shields.io/badge/%40%20%20%20mail.ru-black?style=for-the-badge&logo=%40&color=white" alt="MailBadge"/>
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
