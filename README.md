@@ -8,7 +8,7 @@
 <div id="badges">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="TelegramBadge"/>
 <img src="https://img.shields.io/badge/Pastebin-white?style=for-the-badge&logo=pastebin&logoColor=black" alt="PastebinBadge"/>
-<img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=black" alt="MailBadge"/>
+<img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=mail" alt="MailBadge"/>
 
 
 </div>
