@@ -7,7 +7,7 @@
 <div id="badges">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="TelegramBadge"/>
 <img src="https://img.shields.io/badge/Pastebin-white?style=for-the-badge&logo=pastebin&logoColor=black" alt="PastebinBadge"/>
-<img src="https://img.shields.io/badge/%40mail.ru-black?style=for-the-badge&color=white" alt="MailBadge"/>
+<img src="https://img.shields.io/badge/%40%20%20%20mail.ru-black?style=for-the-badge&logo=%40&color=white" alt="MailBadge"/>
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 
 
