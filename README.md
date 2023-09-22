@@ -1,5 +1,5 @@
 <a href="(https://github.com/lookatme777)"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&center=true&vCenter=true&width=435&lines=Kirill+Mesilov" alt="Typing SVG" /></a>👋
-https://daniilshat.ru
+
 <!--
 **lookatme777/lookatme777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
