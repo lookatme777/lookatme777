@@ -11,8 +11,9 @@
     </a>
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=lookatme777&style=flat-square&color=blueviolet" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=lookatme777&style=flat-square&color=blueviolet" alt=""/>
+
 
 
 
