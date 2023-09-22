@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-https://img.shields.io/badge/pastebin-white?logo=pastebin&logoColor=black
-https://img.shields.io/badge/Telegram-blue?logo=telegram
+https://img.shields.io/badge/pastebin-white?logo=pastebin&logoColor=black&style=for-the-badge
+https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge
 
 
 <!--
