@@ -6,6 +6,7 @@
 </div>
 
 <div id="badges">
+https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram
 
 </div>
 
