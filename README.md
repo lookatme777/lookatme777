@@ -3,6 +3,9 @@
 
 <div id="header">
     <img src="https://img.shields.io/badge/linux-purple?style=flat&logo=ubuntu&logoColor=orange" alt="Linux"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=C%2B%2B" alt="C++"/>
+    
+
 </div>
 
 
