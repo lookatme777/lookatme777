@@ -4,6 +4,12 @@
 <div id="header">
     <img src="https://img.shields.io/badge/Linux-purple?style=flat&logo=Ubuntu" alt="Linux"/>
     <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=C%2B%2B" alt="C++"/>
+    <img src="https://img.shields.io/badge/Git-purple?style=flat&logo=Git" alt="GIT"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=C%2B%2B" alt="MVS"/>
+    
+    
+
+
     
 
 </div>
