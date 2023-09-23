@@ -27,7 +27,9 @@
     <a href="https://pastebin.com/u/chevengur">
       <img src="https://img.shields.io/badge/Pastebin-white?style=for-the-badge&logo=pastebin&logoColor=black" alt="PastebinBadge"/>
     </a>
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav">
+        <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=lookatme777&style=flat-square&color=blueviolet" alt=""/>
 </div>
