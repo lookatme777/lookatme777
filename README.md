@@ -3,8 +3,8 @@
 
 <div id="header">
 :hammer_and_wrench: Стек: 
----
-<img src="https://img.shields.io/badge/linux-purple?style=flat&logo=ubuntu&logoColor=orange" alt="Linux"/>
+  <div id="stack">
+    <img src="https://img.shields.io/badge/linux-purple?style=flat&logo=ubuntu&logoColor=orange" alt="Linux"/>
 </div>
 
 
