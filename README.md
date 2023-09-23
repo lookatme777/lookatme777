@@ -2,8 +2,7 @@
 <a href="[https://github.com/lookatme777]"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%D0%AF+%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D1%8E+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+C%2B%2B" alt="Typing SVG" /></a></h1>
 
 <div id="header">
-:hammer_and_wrench: Стек: 
-  <div id="stack">
+:hammer_and_wrench:
     <img src="https://img.shields.io/badge/linux-purple?style=flat&logo=ubuntu&logoColor=orange" alt="Linux"/>
 </div>
 
