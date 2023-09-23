@@ -11,18 +11,8 @@
     <img src="https://img.shields.io/badge/STL-red?style=flat&logo=STL" alt="STL"/>
     <img src="https://img.shields.io/badge/CMake-orange?style=flat&logo=CMake" alt="CMake"/>
     <img src="https://img.shields.io/badge/LLVM-blue?style=flat&logo=LLVM" alt="LLVM"/>
+    <img src="https://img.shields.io/badge/json-white?style=flat&logo=json&labelColor=gray" alt="LLVM"/>
     
-
-    
-
-
-
-    
-    
-
-
-    
-
 </div>
 
 
