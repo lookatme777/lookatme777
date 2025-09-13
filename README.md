@@ -5,17 +5,15 @@
     <img src="https://img.shields.io/badge/Linux-purple?style=flat&logo=Ubuntu" alt="Linux"/>
     <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=C%2B%2B" alt="C++"/>
     <img src="https://img.shields.io/badge/Git-purple?style=flat&logo=Git" alt="GIT"/>
-    <img src="https://img.shields.io/badge/MVS-blue?style=flat&logo=Visual%20Studio%20Code" alt="MVS"/>
-    <img src="https://img.shields.io/badge/VSCode-purple?style=flat&logo=Visual%20Studio%20Code" alt="VSCode"/>
-    <img src="https://img.shields.io/badge/Protobuf-white?style=flat&logo=proto" alt="Protobuf"/>
-    <img src="https://img.shields.io/badge/STL-red?style=flat&logo=STL" alt="STL"/>
     <img src="https://img.shields.io/badge/CMake-orange?style=flat&logo=CMake" alt="CMake"/>
     <img src="https://img.shields.io/badge/LLVM-blue?style=flat&logo=LLVM" alt="LLVM"/>
-    <img src="https://img.shields.io/badge/json-white?style=flat&logo=json&labelColor=gray" alt="LLVM"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/OPNsense-D94F00?style=flat&logo=opnsense&logoColor=white" alt="OPNsense"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
-
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" alt="Proxmox"/>
+    
 </div>
 
 
