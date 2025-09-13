@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/LLVM-blue?style=flat&logo=LLVM" alt="LLVM"/>
     <img src="https://img.shields.io/badge/json-white?style=flat&logo=json&labelColor=gray" alt="LLVM"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/static/v1?label=OPNsense&color=D94F00&logo=opnsense&logoColor=white" alt="OPNsense"/>
+    <img src="https://img.shields.io/badge/OPNsense-D94F00?style=flat&logo=opnsense&logoColor=white" alt="OPNsense"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
 
-    
 </div>
 
 
