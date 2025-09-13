@@ -23,7 +23,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif?cid=ecf05e476ez5opagwr33lulk0i5o9zfc0c7i9pf1pj2cvbce&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
   <div id="badges">
-    <a href="https://t.me/zigazaga07">
+    <a href="https://t.me/prejdebivwiy">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="TelegramBadge"/>
     </a>
     <a href="https://pastebin.com/u/chevengur">
