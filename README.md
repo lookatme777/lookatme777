@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LLVM-blue?style=flat&logo=LLVM" alt="LLVM"/>
     <img src="https://img.shields.io/badge/json-white?style=flat&logo=json&labelColor=gray" alt="LLVM"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/static/v1?label=OPNsense&message=Firewall&color=D94F00&logo=opnsense&logoColor=white" alt="OPNsense"/>
+    <img src="https://img.shields.io/static/v1?label=OPNsense&color=D94F00&logo=opnsense&logoColor=white" alt="OPNsense"/>
 
     
 </div>
