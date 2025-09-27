@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" alt="Proxmox"/>
     <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="UE"/>
     <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat&logo=renpy&logoColor=white" alt="Ren'Py"/>
+    <img src="https://img.shields.io/badge/Prometheus-orange?style=flat&logo=Prometheus&logoColor=white" alt="Prometheus"/>
+    <img src="https://img.shields.io/badge/Grafana-orange?style=flat&logo=Grafana&logoColor=white" alt="Grafana"/>
 </div>
 
 
